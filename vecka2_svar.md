@@ -5,3 +5,14 @@ Vattenfallsmodellen betyder att man planerar projektet från början och arbetar
 Agil metodik är mer flexibel. Man delar upp arbetet i mindre delar och utvecklar projektet steg för steg. Under projekts tid kan man få feedback och ändra saker om det behövs.
 
 Jag tycker att vattenfallsmodellen passar bättre när man vet exakt vad som ska göras. Agil metodik passar bättre när projektet kan förändras under tiden, till exempel när man utvecklar en webbplats eller en app.
+
+
+
+
+# Fråga 2 ) Git-commit
+
+Ett Git-commit är som att spara en version av sitt arbete. När man gör en commit sparas de ändringar som man har gjort och man skriver ett meddelande om vad man har ändrat.
+
+Det är viktigt eftersom man kan se tidigare versioner av projektet och gå tillbaka om något blir fel.
+
+Till exempel om jag arbetar med en hemsida och ändrar koden men den nya koden inte fungerar, kan jag använda Git för att gå tillbaka till en tidigare version som fungerade. På det sättet behöver jag inte börja om från början.
